@@ -1,0 +1,27 @@
+{
+  "Database": {
+    "dbHost": "localhost",
+    "dbPort": "3306",
+    "dbName": "atestdb",
+    "dbUsername": "root",
+    "dbPassword": "",
+    "isMultiTenant": false
+  },
+  "TableConfig": {
+    "ExcludeTableName": ""
+  },
+  "UserConfig": {
+    "isAuthTable": false,
+    "AuthTable": "",
+    "UsernameColumn": "",
+    "PasswordColumn": "",
+    "DefaultUsername": "admin",
+    "DefaultPassword": "admin123"
+  },
+  "Licence": {
+    "PurchaseCode": "",
+    "PurchaseSource": "getautomator.com",
+    "YourEmail": ""
+  }
+
+}
